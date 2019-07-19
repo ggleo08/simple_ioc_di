@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v2.2": {
       "IoCConsole.Demo/1.0.0": {
+        "dependencies": {
+          "IoC.Framework": "1.0.0"
+        },
         "runtime": {
           "IoCConsole.Demo.dll": {}
+        }
+      },
+      "IoC.Framework/1.0.0": {
+        "runtime": {
+          "IoC.Framework.dll": {}
         }
       }
     }
   },
   "libraries": {
     "IoCConsole.Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IoC.Framework/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

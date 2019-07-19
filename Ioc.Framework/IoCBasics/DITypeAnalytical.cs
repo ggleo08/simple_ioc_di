@@ -1,9 +1,11 @@
-﻿using System;
+﻿using IoC.Framework.Achieve;
+using IoC.Framework.IoCAbstractBasics;
+using System;
 using System.Collections.Generic;
 using System.Reflection;
 using System.Text;
 
-namespace IoC.Framework
+namespace IoC.Framework.IoCBasics
 {
     public class DITypeAnalytical : IDITypeAnalytical
     {
@@ -17,6 +19,7 @@ namespace IoC.Framework
         {
             ConstructorInfo[] constructorInfos = type.GetConstructors();
             object instance = null;
+
             #region 构造函数注入
             foreach (ConstructorInfo conInfo in constructorInfos)
             {
@@ -38,10 +41,12 @@ namespace IoC.Framework
                 }
             }
             #endregion
+
             if (instance == null)
             {
                 instance = CreateInstance(type);
             }
+
             #region 属性注入
             if (type.GetProperties().Length > 0)
             {
@@ -61,6 +66,11 @@ namespace IoC.Framework
             #endregion
 
             return instance;
+        }
+
+        private object CreateInstance(Type type, params object[] args)
+        {
+            return Activator.CreateInstance(type, args);
         }
     }
 }

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Ioc.Framework")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("IoC.Framework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Ioc.Framework")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Ioc.Framework")]
+[assembly: System.Reflection.AssemblyProductAttribute("IoC.Framework")]
+[assembly: System.Reflection.AssemblyTitleAttribute("IoC.Framework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

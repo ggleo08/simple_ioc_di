@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git_others\\simple_ioc_di\\IoC.Console.Demo\\Ioc.Framework\\Ioc.Framework.csproj",
-      "projectName": "Ioc.Framework",
-      "projectPath": "D:\\git_others\\simple_ioc_di\\IoC.Console.Demo\\Ioc.Framework\\Ioc.Framework.csproj",
+      "projectUniqueName": "D:\\git_others\\simple_ioc_di\\Ioc.Framework\\IoC.Framework.csproj",
+      "projectName": "IoC.Framework",
+      "projectPath": "D:\\git_others\\simple_ioc_di\\Ioc.Framework\\IoC.Framework.csproj",
       "packagesPath": "C:\\Users\\leo.guo\\.nuget\\packages\\",
-      "outputPath": "D:\\git_others\\simple_ioc_di\\IoC.Console.Demo\\Ioc.Framework\\obj\\",
+      "outputPath": "D:\\git_others\\simple_ioc_di\\Ioc.Framework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
