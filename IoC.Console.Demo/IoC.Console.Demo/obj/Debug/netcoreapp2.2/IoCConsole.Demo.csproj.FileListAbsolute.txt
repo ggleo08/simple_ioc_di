@@ -1,0 +1,11 @@
+D:\git_others\simple_ioc_di\IoC.Console.Demo\IoC.Console.Demo\bin\Debug\netcoreapp2.2\IoCConsole.Demo.deps.json
+D:\git_others\simple_ioc_di\IoC.Console.Demo\IoC.Console.Demo\bin\Debug\netcoreapp2.2\IoCConsole.Demo.runtimeconfig.json
+D:\git_others\simple_ioc_di\IoC.Console.Demo\IoC.Console.Demo\bin\Debug\netcoreapp2.2\IoCConsole.Demo.runtimeconfig.dev.json
+D:\git_others\simple_ioc_di\IoC.Console.Demo\IoC.Console.Demo\bin\Debug\netcoreapp2.2\IoCConsole.Demo.dll
+D:\git_others\simple_ioc_di\IoC.Console.Demo\IoC.Console.Demo\bin\Debug\netcoreapp2.2\IoCConsole.Demo.pdb
+D:\git_others\simple_ioc_di\IoC.Console.Demo\IoC.Console.Demo\obj\Debug\netcoreapp2.2\IoCConsole.Demo.csproj.CoreCompileInputs.cache
+D:\git_others\simple_ioc_di\IoC.Console.Demo\IoC.Console.Demo\obj\Debug\netcoreapp2.2\IoCConsole.Demo.AssemblyInfoInputs.cache
+D:\git_others\simple_ioc_di\IoC.Console.Demo\IoC.Console.Demo\obj\Debug\netcoreapp2.2\IoCConsole.Demo.AssemblyInfo.cs
+D:\git_others\simple_ioc_di\IoC.Console.Demo\IoC.Console.Demo\obj\Debug\netcoreapp2.2\IoCConsole.Demo.dll
+D:\git_others\simple_ioc_di\IoC.Console.Demo\IoC.Console.Demo\obj\Debug\netcoreapp2.2\IoCConsole.Demo.pdb
+D:\git_others\simple_ioc_di\IoC.Console.Demo\IoC.Console.Demo\obj\Debug\netcoreapp2.2\IoCConsole.Demo.csprojAssemblyReference.cache
